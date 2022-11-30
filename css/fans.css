@@ -224,21 +224,21 @@ main>h1{
         text-decoration: none; 
         font-size: 20px;
         padding: 12px;
-        border: gold dotted 5px;
+        border: white dotted 5px;
         /* border: gold dotted 5px; */
         /* padding: 20px 0px 20px 0px; */
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
 
     nav a:active, a:hover {
-        color:            gold;
+        color:            white;
         text-decoration: underline;
         /* background-color: #4f81bd; */
         /* border: black dotted 5px; */
     }
     
     a.current {
-        color:            gold;
+        color:            white;
         text-decoration: underline;
     }
     main{
@@ -388,7 +388,7 @@ main>h1{
         text-decoration: none; 
         font-size: 20px;
         padding: 20px;
-        border: gold dotted 5px;
+        border: white dotted 5px;
         /* border: gold dotted 5px; */
         /* padding: 20px 0px 20px 0px; */
         font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -396,14 +396,14 @@ main>h1{
     
     
     nav a:active, a:hover {
-        color:            gold;
+        color:            white;
         text-decoration: underline;
         /* background-color: #4f81bd; */
         /* border: black dotted 5px; */
     }
     
     a.current {
-        color:            gold;
+        color:            white;
         text-decoration: underline;
     }
 }
