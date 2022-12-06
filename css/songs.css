@@ -220,7 +220,7 @@ body {
 
 
 /* TABLET */
-@media screen and (min-width: 600px){
+@media screen and (min-width: 641px){
 
     /* nav styling */
     /* #up_arrow {
@@ -280,7 +280,7 @@ body {
     }
 
 /* DESKTOP */
-@media screen and (min-width: 900px){
+@media screen and (min-width: 1008px){
     /* nav styling */
     /* #up_arrow {
         visibility: hidden;
