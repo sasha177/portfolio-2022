@@ -224,7 +224,7 @@ main>h1{
 
 
 /* TABLET */
-@media screen and (min-width: 600px){
+@media screen and (min-width: 641px){
     /* nav styling */
     /* #up_arrow {
         visibility: hidden;
@@ -350,7 +350,7 @@ main>h1{
 }
 
 /* DESKTOP */
-@media screen and (min-width: 900px){
+@media screen and (min-width: 1008px){
     
     main{
         padding: 0 3%;
